@@ -1,0 +1,17 @@
+{
+  "name": "max7219",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "max7219-display": "^1.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
